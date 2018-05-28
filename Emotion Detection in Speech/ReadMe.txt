@@ -1,5 +1,4 @@
 ========================================================
-Author(s): Vaijyant Tomar, Prerana Singh
 Project	 : Emotion Detection in Speech
 ========================================================
 
