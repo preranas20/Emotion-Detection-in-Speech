@@ -1,0 +1,17 @@
+signal wochenAO
+type 0
+comment created using xlabel Sun Feb  6 12:07:53 2000
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.075402   -1 das	2.4
+    0.352169   -1 will	0.9
+    0.506426   -1 sie	0.2
+    0.642947   -1 am	0.1
+    0.774509   -1 mitt	1.1
+    0.908325   -1 woch	0.0
+    1.072327   -1 ab	1.5
+    1.303915   -1 ge	0.5
+    1.550822   -1 ben	0.0
+    1.731044   -1 .	

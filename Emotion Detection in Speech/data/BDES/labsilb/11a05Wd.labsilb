@@ -1,0 +1,27 @@
+signal wochenAO
+type 0
+comment created using xlabel Thu Jan 18 14:30:21 2001
+comment created using xlabel Wed Mar  8 11:56:39 2000
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.160166   -1 das	0.6
+    0.284990   -1 schwar	1.9
+    0.640439   -1 ze	0.0
+    0.801337   -1 blatt	1.0
+    1.103155   -1 pa	0.5
+    1.284034   -1 pier	1.9
+    1.601627   -1 be	0.0
+    1.722564   -1 fin	1.0
+    1.866637   -1 det	0.0
+    2.048567   -1 sich	0.1
+    2.196846   -1 da	0.6
+    2.440826   -1 o	2.6
+    2.672183   -1 ben	0.1
+    2.750004   -1 ne	1.2
+    2.940347   -1 ben	0.0
+    3.020274   -1 dem	0.2
+    3.145417   -1 holz	2.2
+    3.436717   -1 stück	0.8
+    3.909035   -1 .	

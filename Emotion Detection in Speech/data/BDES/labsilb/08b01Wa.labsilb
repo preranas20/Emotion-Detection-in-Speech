@@ -1,0 +1,24 @@
+signal speech
+type 0
+comment created using xlabel Thu Jan 18 12:53:12 2001
+comment created using xlabel Fri Feb 18 15:15:00 2000
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.230472   -1 was	2.5
+    0.525136   -1 sind	1.4
+    0.754298   -1 denn	0.8
+    0.979194   -1 das	1.6
+    1.209668   -1 für	0.2
+    1.341490   -1 tü	2.8
+    1.632708   -1 ten	0.0
+    1.823244   -1 die	0.8
+    1.915299   -1 da	0.2
+    2.030711   -1 un	0.5
+    2.126975   -1 ter	0.1
+    2.236803   -1 dem	0.1
+    2.390685   -1 tisch	2.9
+    2.682555   -1 stehn	0.9
+    3.082555   -1 hn	0.0
+    3.185102   -1 .	

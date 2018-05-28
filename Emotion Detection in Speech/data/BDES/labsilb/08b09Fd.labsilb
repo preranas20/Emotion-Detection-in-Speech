@@ -1,0 +1,24 @@
+signal speech
+type 0
+comment created using xlabel Tue Mar 14 17:46:50 2000
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.107744   -1 ich	0.4
+    0.203222   -1 will	2.0
+    0.344898   -1 das	0.0
+    0.498894   -1 e	1.0
+    0.591292   -1 ben	0.0
+    0.700116   -1 weg	2.0
+    0.878751   -1 bring	0.4
+    0.878751   -1 bring	0.0
+    1.190850   -1 und	0.0
+    1.292474   -1 dann	0.6
+    1.435177   -1 mit	0.0
+    1.564533   -1 karl	1.8
+    1.806821   -1 was	0.0
+    1.983403   -1 trin	1.8
+    2.218503   -1 ken	0.0
+    2.399192   -1 gehn	0.5
+    2.702309   -1 .	

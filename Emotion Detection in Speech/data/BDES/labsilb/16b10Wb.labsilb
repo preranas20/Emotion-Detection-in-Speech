@@ -1,0 +1,22 @@
+signal wochenAO
+type 0
+comment created using xlabel Fri Mar 17 14:22:54 2000
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.036787   -1 die	1.4
+    0.175391   -1 wird	2.5
+    0.451950   -1 auf	0.0
+    0.591214   -1 dem	0.1
+    0.758717   -1 platz	2.0
+    1.016881   -1 sein	0.4
+    1.175850   -1 wo	0.8
+    1.288836   -1 wir	0.1
+    1.382126   -1 sie	0.2
+    1.511528   -1 im	2.9
+    1.647506   -1 mer	0.2
+    1.778228   -1 hin	0.6
+    1.968731   -1 le	1.5
+    2.222294   -1 gen	0.0
+    2.437756   -1 .	

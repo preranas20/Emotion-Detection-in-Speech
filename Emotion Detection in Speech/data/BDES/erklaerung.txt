@@ -1,0 +1,2 @@
+In der Datei info.txt und info.xls sind jeweils die Dateinamen sowie die Erkennungsrate in Prozent und die Beurteilung der Natuerlichkeit in Prozent angegeben. Am Perzeptionstest haben 20 Versuchspersonen teilgenommen. 
+Die Auswahl der Saetze erfolgt bei mind. 80% richtig erkannter Emotion (>=16 von 20 Hörern) und mind. 60% der Beurteilungen als natuerlich (>=12 von 20).

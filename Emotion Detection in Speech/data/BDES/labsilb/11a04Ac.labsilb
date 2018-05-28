@@ -1,0 +1,21 @@
+signal wochenAO
+type 0
+comment created using xlabel Tue Apr  2 11:15:21 2002
+comment created using xlabel Fri Jun  9 16:46:18 2000
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.089174   -1 heu	0.6
+    0.196743   -1 te	0.2
+    0.274320   -1 a	2.1
+    0.441873   -1 bend	0.0
+    0.551841   -1 könn	0.9
+    0.707436   -1 t	0.0
+    0.717882   -1 ich	0.2
+    0.789769   -1 s	0.0
+    0.854155   -1 ihm	0.4
+    0.954526   -1 sa	2.0
+    1.181662   -1 gen	0.0
+    1.350414   -1 .	

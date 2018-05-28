@@ -1,0 +1,18 @@
+signal wochenAO
+type 0
+comment created using xlabel Tue May  7 15:54:22 2002
+comment created using xlabel Tue Feb 29 15:08:40 2000
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.087274   -1 der	0.6
+    0.222113   -1 la	2.1
+    0.408000   -1 pen	0.0
+    0.611851   -1 liegt	1.6
+    0.869398   -1 auf	1.0
+    1.090477   -1 dem	0.8
+    1.284207   -1 eis	3.0
+    1.565503   -1 schrank	0.9
+    2.147773   -1 .	

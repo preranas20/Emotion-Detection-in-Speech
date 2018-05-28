@@ -1,0 +1,26 @@
+signal wochenAO
+type 0
+comment created using xlabel Fri Apr  5 15:12:47 2002
+comment created using xlabel Fri Jan 28 15:06:04 2000
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.113627   -1 ich	0.9
+    0.565391   -1 will	2.2
+    0.916142   -1 das	0.4
+    1.308665   -1 e	0.9
+    1.513716   -1 ben	0.0
+    1.646934   -1 weg	2.0
+    1.897053   -1 bringen	0.6
+    2.177788   -1 gn	0.1
+    2.325438   -1 und	0.0
+    2.486672   -1 dann	0.9
+    2.762312   -1 mit	0.6
+    3.107111   -1 karl	2.8
+    3.826744   -1 was	0.1
+    4.083385   -1 trin	1.5
+    4.409896   -1 ken	0.0
+    4.559771   -1 gehen	0.6
+    4.923819   -1 .	

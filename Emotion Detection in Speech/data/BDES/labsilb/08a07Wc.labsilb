@@ -1,0 +1,20 @@
+signal wochenAO
+type 0
+comment created using xlabel Tue May 21 15:18:09 2002
+comment created using xlabel Fri Aug 11 11:57:28 2000
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.067181   -1 in	0.1
+    0.221635   -1 sie	2.4
+    0.481998   -1 ben	0.0
+    0.585166   -1 stun	2.1
+    0.942049   -1 den	0.0
+    1.050121   -1 wird	1.1
+    1.182186   -1 es	0.2
+    1.296038   -1 so	0.8
+    1.404977   -1 weit	1.4
+    1.673722   -1 sein	2.5
+    2.116552   -1 .	

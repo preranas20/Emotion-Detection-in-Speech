@@ -1,0 +1,43 @@
+signal wochenAO
+type 0
+comment created using xlabel Fri Jan 19 15:23:39 2001
+comment created using xlabel Tue Aug 15 11:50:17 2000
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.056475   -1 I	+beh,-sth
+    0.092450   -1 	+sth
+    0.128424   -1 	-beh
+    0.189066   -1 n
+    0.230180   -1 s	+sth
+    0.247653   -1 	-sth
+    0.368938   -1 i		2
+    0.465040   -1 b	+na
+    0.501014   -1 m	+sil
+    0.545211   -1 S	+sth,+lab
+    0.579130   -1 	-lab,-sth
+    0.701441   -1 t
+    0.714803   -1 !t	+asp
+    0.787780   -1 U	+nas	3
+    0.901355   -1 n
+    0.954425   -1 n	+sil
+    0.994888   -1 v
+    1.054502   -1 @		2
+    1.132103   -1 t	+tie,+sth
+    1.146492   -1 	-tie,-sth
+    1.179383   -1 !t
+    1.206107   -1 @	+tie
+    1.248248   -1 s	+sth
+    1.271889   -1 	-sth
+    1.348976   -1 o
+    1.411674   -1 v
+    1.463170   -1 aI
+    1.540258   -1 t	+tie
+    1.561842   -1 !t
+    1.575204   -1 s
+    1.673876   -1 aI	+tie,+har	3
+    1.701628   -1 	-tie
+    1.834219   -1 n
+    1.888323   -1 .

@@ -1,0 +1,18 @@
+signal 16a01Ecxx
+type 0
+comment created using xlabel Tue May  7 15:53:19 2002
+comment created using xlabel Thu Nov 23 16:11:17 2000
+color 125
+font -misc-*-bold-*-*-*-15-*-*-*-*-*-*-*
+separator ;
+nfields 1
+#
+    0.082740   -1 der	0.4
+    0.234958   -1 la	1.9
+    0.425071   -1 pen	0.0
+    0.651189   -1 liegt	1.1
+    0.923411   -1 auf	0.2
+    1.111001   -1 dem	0.2
+    1.363012   -1 eis	2.6
+    1.710044   -1 schrank	0.9
+    2.379905   -1 .	
